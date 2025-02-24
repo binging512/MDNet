@@ -1,0 +1,91 @@
+# Dataset
+data_type: "Pancreas_3d"
+data_mode: 'img'  # img, dcm, img_dat
+train_mode: 'all' # train, all
+test_mode: 'val'
+data_root: './data'
+split_info: './data/MPCD/splits/split_3d.json'
+cls_anno_path: './data/MPCD/anno_all.json'
+
+batch_size: 8
+num_worker: 8
+drop_last: False
+
+# Dicom setting
+dcm_win_center: 40
+dcm_win_width: 350
+
+# Augmentation
+rescale: [360,360]
+rand_rotate: ""
+rand_scale: ""
+crop_window: [360, 360]
+crop_size: [256,256]
+keep_ratio: True
+rand_blood_text: False
+rand_others_text: False
+window_crop: False
+selected_window: False
+use_detection: True
+
+# 3D
+D_center_ratio: 0.4
+D_offset_ratio: 0.1
+D_center_window: 64
+D_interval: 1
+D_soft_sample: False
+# 2D
+neighbour_slice: True
+
+# Net
+net_resume: ''
+# Image Encoder
+net_name: 'r2plus1d'
+net_backbone: 'resnet18'
+net_pretrain: ''
+# Text Encoder
+net_blood_name: 'mlp'  # none, mlp, trans
+net_others_name: "transformer"
+net_text_pretrain: 'CLIP_ViT-B/32' # 'CLIP_ViT-L/14'
+# Feature Fusion
+net_late_fusion: 0
+# Feature Fusion
+net_fusion: 'concat'
+# Classifiers
+net_dropout: 0
+net_classifier_inchannel: 640
+net_essential_classes: 2
+net_invade_classes: 2
+net_surgery_classes: 2
+net_seg_classes: 3
+net_nheads: 1
+net_num_epoches: 100
+net_learning_rate: 0.0006
+# Loss functions
+net_essential_cls_celoss: False
+net_invade_cls_celoss: True
+net_surgery_cls_celoss: True
+net_invade_cls_distsoftloss: False
+net_surgery_cls_distsoftloss: False
+net_ct_invade_cls_celoss: False
+net_ct_surgery_cls_celoss: False
+net_ct_invade_cls_distsoftloss: False
+net_ct_surgery_cls_distsoftloss: False
+net_seg_celoss: False
+net_seg_diceloss: False
+
+# Inference
+test_fusion: 'mean'   # mean, max
+test_checkpoint: './workspace/3D_paper_final/r2plus1d18_mlp_trans_cat_ep100_img_b8_det_rz360_crp256_z64i1_0.4/best_model.pth'
+slide_window: False
+post_processing: False
+
+# Saving
+main_metric: 'test_avg'
+workspace: './workspace/3D_paper_final/r2plus1d18_mlp_trans_cat_ep100_img_b8_det_rz360_crp256_z64i1_0.4'
+results_val: 'results_val'
+results_test: 'results_test'
+checkpoint: checkpoints/epoch_70.pth
+val_interval: 2
+save_interval: 2
+

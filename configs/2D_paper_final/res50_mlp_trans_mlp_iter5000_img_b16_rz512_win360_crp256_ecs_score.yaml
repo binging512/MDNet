@@ -1,0 +1,88 @@
+# Dataset
+data_type: "Pancreas_2d"
+data_mode: 'img'
+train_mode: 'all'
+test_mode: 'val'
+data_root: './data'
+split_info: './data/MPCD/splits/split_2d.json'
+cls_anno_path: './data/MPCD/anno_all.json'
+
+batch_size: 16
+num_worker: 8
+drop_last: True
+
+# Dicom setting
+dcm_win_center: 40
+dcm_win_width: 350
+
+# Augmentation
+rescale: [360,360]
+rand_rotate: ""
+rand_scale: ""
+crop_window: [360, 360]
+crop_size: [256,256]
+rand_blood_text: False
+rand_others_text: False
+window_crop: False
+use_detection: True
+use_detection_slice: True
+
+## 3D
+D_center_ratio: 0.5
+D_offset_ratio: 0.1
+D_center_window: 64
+## 2D
+neighbour_slice: True
+
+# Net
+net_resume: ''
+# Image Encoder
+net_name: 'resnet'
+net_backbone: 'resnet50'
+net_pretrain: ''
+# Text Encoder
+net_blood_name: "mlp"
+net_others_name: "transformer"
+net_text_pretrain: 'CLIP_ViT-B/32' # 'CLIP_ViT-L/14'
+# Feature Fusion
+net_fusion: 'mlp'
+# Classifiers
+net_dropout: 0.5
+net_classifier_inchannel: 640
+net_essential_classes: 2
+net_essential_object: 'tumor'
+net_invade_classes: 2
+net_invade_weights: [1, 1]
+net_surgery_classes: 2
+net_seg_classes: 3
+net_seg_weights: [1.,10.,10.]
+net_nheads: 1
+net_num_iter: 5000
+net_learning_rate: 0.001
+net_cls_use_essential: True
+net_seg_use_essential: True
+net_invade_cls_celoss: True
+net_surgery_cls_celoss: True
+net_essential_cls_celoss: True
+net_seg_celoss: False
+
+
+# Inference
+test_fusion: 'mean'
+main_metric: 'test_avg'
+test_checkpoint: 'checkpoints/iter_4300.pth'
+thres_invade: 0.5
+thres_surgery: 0.5
+
+## 2D
+vote_mode: 'score_essential'
+score_mode: 'max'
+
+# Saving
+workspace: './workspace/2D_paper_final/res50_mlp_trans_mlp_iter5000_img_b16_det_rz360_crp256_ecs_score'
+results_val: 'results_val'
+results_test: 'results_test'
+checkpoint: best_model.pth
+val_interval: 100
+save_interval: 100
+

@@ -1,0 +1,2296 @@
+{
+  "train": [
+    {
+      "image_dir": "./data/pancreas/images/0000000136梁宝印",
+      "dcm_dir": "./data/pancreas/dcms/0000000136梁宝印",
+      "seg_label_dir": "./data/pancreas/labels/0000000136梁宝印",
+      "anno_item": "0000000136梁宝印",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 84,
+        "stop": 160
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000002547何鑫",
+      "dcm_dir": "./data/pancreas/dcms/0000002547何鑫",
+      "seg_label_dir": "./data/pancreas/labels/0000002547何鑫",
+      "anno_item": "0000002547何鑫",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 57,
+        "stop": 123
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000009262余子卿",
+      "dcm_dir": "./data/pancreas/dcms/0000009262余子卿",
+      "seg_label_dir": "./data/pancreas/labels/0000009262余子卿",
+      "anno_item": "0000009262余子卿",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 70,
+        "stop": 122
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000047439尹希哲",
+      "dcm_dir": "./data/pancreas/dcms/0000047439尹希哲",
+      "seg_label_dir": "./data/pancreas/labels/0000047439尹希哲",
+      "anno_item": "0000047439尹希哲",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 84,
+        "stop": 169
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000058771郝军生",
+      "dcm_dir": "./data/pancreas/dcms/0000058771郝军生",
+      "seg_label_dir": "./data/pancreas/labels/0000058771郝军生",
+      "anno_item": "0000058771郝军生",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 100,
+        "stop": 161
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000082940庞书芹",
+      "dcm_dir": "./data/pancreas/dcms/0000082940庞书芹",
+      "seg_label_dir": "./data/pancreas/labels/0000082940庞书芹",
+      "anno_item": "0000082940庞书芹",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 75,
+        "stop": 130
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000084348乔振海",
+      "dcm_dir": "./data/pancreas/dcms/0000084348乔振海",
+      "seg_label_dir": "./data/pancreas/labels/0000084348乔振海",
+      "anno_item": "0000084348乔振海",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 79,
+        "stop": 150
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000147934吴立英",
+      "dcm_dir": "./data/pancreas/dcms/0000147934吴立英",
+      "seg_label_dir": "./data/pancreas/labels/0000147934吴立英",
+      "anno_item": "0000147934吴立英",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 65,
+        "stop": 115
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000185868王春誉",
+      "dcm_dir": "./data/pancreas/dcms/0000185868王春誉",
+      "seg_label_dir": "./data/pancreas/labels/0000185868王春誉",
+      "anno_item": "0000185868王春誉",
+      "slice_thickness": 5.0,
+      "essential_layers": {
+        "start": 28,
+        "stop": 45
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000196118高增奎",
+      "dcm_dir": "./data/pancreas/dcms/0000196118高增奎",
+      "seg_label_dir": "./data/pancreas/labels/0000196118高增奎",
+      "anno_item": "0000196118高增奎",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 105,
+        "stop": 180
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000204154高晏",
+      "dcm_dir": "./data/pancreas/dcms/0000204154高晏",
+      "seg_label_dir": "./data/pancreas/labels/0000204154高晏",
+      "anno_item": "0000204154高晏",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 50,
+        "stop": 100
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000255840哈都尔",
+      "dcm_dir": "./data/pancreas/dcms/0000255840哈都尔",
+      "seg_label_dir": "./data/pancreas/labels/0000255840哈都尔",
+      "anno_item": "0000255840哈都尔",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 50,
+        "stop": 93
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000291994朱孝斌",
+      "dcm_dir": "./data/pancreas/dcms/0000291994朱孝斌",
+      "seg_label_dir": "./data/pancreas/labels/0000291994朱孝斌",
+      "anno_item": "0000291994朱孝斌",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 65,
+        "stop": 100
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000407928杨淑玲",
+      "dcm_dir": "./data/pancreas/dcms/0000407928杨淑玲",
+      "seg_label_dir": "./data/pancreas/labels/0000407928杨淑玲",
+      "anno_item": "0000407928杨淑玲",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 68,
+        "stop": 123
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000432104蔡满芳",
+      "dcm_dir": "./data/pancreas/dcms/0000432104蔡满芳",
+      "seg_label_dir": "./data/pancreas/labels/0000432104蔡满芳",
+      "anno_item": "0000432104蔡满芳",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 70,
+        "stop": 120
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000490288张宝林",
+      "dcm_dir": "./data/pancreas/dcms/0000490288张宝林",
+      "seg_label_dir": "./data/pancreas/labels/0000490288张宝林",
+      "anno_item": "0000490288张宝林",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 50,
+        "stop": 115
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000675948熊连庆",
+      "dcm_dir": "./data/pancreas/dcms/0000675948熊连庆",
+      "seg_label_dir": "./data/pancreas/labels/0000675948熊连庆",
+      "anno_item": "0000675948熊连庆",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 75,
+        "stop": 180
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000727990马淑荣",
+      "dcm_dir": "./data/pancreas/dcms/0000727990马淑荣",
+      "seg_label_dir": "./data/pancreas/labels/0000727990马淑荣",
+      "anno_item": "0000727990马淑荣",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 60,
+        "stop": 120
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000742847郭玉珍",
+      "dcm_dir": "./data/pancreas/dcms/0000742847郭玉珍",
+      "seg_label_dir": "./data/pancreas/labels/0000742847郭玉珍",
+      "anno_item": "0000742847郭玉珍",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 65,
+        "stop": 105
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000748967齐公熙",
+      "dcm_dir": "./data/pancreas/dcms/0000748967齐公熙",
+      "seg_label_dir": "./data/pancreas/labels/0000748967齐公熙",
+      "anno_item": "0000748967齐公熙",
+      "slice_thickness": 0.75,
+      "essential_layers": {
+        "start": 160,
+        "stop": 320
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0001000374孙白银",
+      "dcm_dir": "./data/pancreas/dcms/0001000374孙白银",
+      "seg_label_dir": "./data/pancreas/labels/0001000374孙白银",
+      "anno_item": "0001000374孙白银",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 83,
+        "stop": 150
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0001001967樊为民",
+      "dcm_dir": "./data/pancreas/dcms/0001001967樊为民",
+      "seg_label_dir": "./data/pancreas/labels/0001001967樊为民",
+      "anno_item": "0001001967樊为民",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 75,
+        "stop": 145
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0001034591郑建国",
+      "dcm_dir": "./data/pancreas/dcms/0001034591郑建国",
+      "seg_label_dir": "./data/pancreas/labels/0001034591郑建国",
+      "anno_item": "0001034591郑建国",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 70,
+        "stop": 110
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0001086262郭桂琴",
+      "dcm_dir": "./data/pancreas/dcms/0001086262郭桂琴",
+      "seg_label_dir": "./data/pancreas/labels/0001086262郭桂琴",
+      "anno_item": "0001086262郭桂琴",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 75,
+        "stop": 120
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0001090174何红",
+      "dcm_dir": "./data/pancreas/dcms/0001090174何红",
+      "seg_label_dir": "./data/pancreas/labels/0001090174何红",
+      "anno_item": "0001090174何红",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 65,
+        "stop": 155
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0001128640潘继红",
+      "dcm_dir": "./data/pancreas/dcms/0001128640潘继红",
+      "seg_label_dir": "./data/pancreas/labels/0001128640潘继红",
+      "anno_item": "0001128640潘继红",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 70,
+        "stop": 115
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0001243719崔世龙",
+      "dcm_dir": "./data/pancreas/dcms/0001243719崔世龙",
+      "seg_label_dir": "./data/pancreas/labels/0001243719崔世龙",
+      "anno_item": "0001243719崔世龙",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 43,
+        "stop": 100
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0001302000向双根",
+      "dcm_dir": "./data/pancreas/dcms/0001302000向双根",
+      "seg_label_dir": "./data/pancreas/labels/0001302000向双根",
+      "anno_item": "0001302000向双根",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 90,
+        "stop": 150
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0001350534王伟",
+      "dcm_dir": "./data/pancreas/dcms/0001350534王伟",
+      "seg_label_dir": "./data/pancreas/labels/0001350534王伟",
+      "anno_item": "0001350534王伟",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 80,
+        "stop": 130
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0001415879彭长利",
+      "dcm_dir": "./data/pancreas/dcms/0001415879彭长利",
+      "seg_label_dir": "./data/pancreas/labels/0001415879彭长利",
+      "anno_item": "0001415879彭长利",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 50,
+        "stop": 120
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0001447890谷兰格",
+      "dcm_dir": "./data/pancreas/dcms/0001447890谷兰格",
+      "seg_label_dir": "./data/pancreas/labels/0001447890谷兰格",
+      "anno_item": "0001447890谷兰格",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 195,
+        "stop": 290
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0001670196马学英",
+      "dcm_dir": "./data/pancreas/dcms/0001670196马学英",
+      "seg_label_dir": "./data/pancreas/labels/0001670196马学英",
+      "anno_item": "0001670196马学英",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 24,
+        "stop": 80
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0001793300齐领弟",
+      "dcm_dir": "./data/pancreas/dcms/0001793300齐领弟",
+      "seg_label_dir": "./data/pancreas/labels/0001793300齐领弟",
+      "anno_item": "0001793300齐领弟",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 67,
+        "stop": 110
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0001881016任惠清",
+      "dcm_dir": "./data/pancreas/dcms/0001881016任惠清",
+      "seg_label_dir": "./data/pancreas/labels/0001881016任惠清",
+      "anno_item": "0001881016任惠清",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 113,
+        "stop": 184
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0001898678王淑荣",
+      "dcm_dir": "./data/pancreas/dcms/0001898678王淑荣",
+      "seg_label_dir": "./data/pancreas/labels/0001898678王淑荣",
+      "anno_item": "0001898678王淑荣",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 55,
+        "stop": 115
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0001928892张桂华",
+      "dcm_dir": "./data/pancreas/dcms/0001928892张桂华",
+      "seg_label_dir": "./data/pancreas/labels/0001928892张桂华",
+      "anno_item": "0001928892张桂华",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 84,
+        "stop": 191
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0001959866郭聚庚",
+      "dcm_dir": "./data/pancreas/dcms/0001959866郭聚庚",
+      "seg_label_dir": "./data/pancreas/labels/0001959866郭聚庚",
+      "anno_item": "0001959866郭聚庚",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 120,
+        "stop": 180
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002008408张万荣",
+      "dcm_dir": "./data/pancreas/dcms/0002008408张万荣",
+      "seg_label_dir": "./data/pancreas/labels/0002008408张万荣",
+      "anno_item": "0002008408张万荣",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 44,
+        "stop": 130
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002023831韩敏",
+      "dcm_dir": "./data/pancreas/dcms/0002023831韩敏",
+      "seg_label_dir": "./data/pancreas/labels/0002023831韩敏",
+      "anno_item": "0002023831韩敏",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 85,
+        "stop": 160
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002075176张震",
+      "dcm_dir": "./data/pancreas/dcms/0002075176张震",
+      "seg_label_dir": "./data/pancreas/labels/0002075176张震",
+      "anno_item": "0002075176张震",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 60,
+        "stop": 130
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002092277周富强",
+      "dcm_dir": "./data/pancreas/dcms/0002092277周富强",
+      "seg_label_dir": "./data/pancreas/labels/0002092277周富强",
+      "anno_item": "0002092277周富强",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 45,
+        "stop": 92
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002101462张建春",
+      "dcm_dir": "./data/pancreas/dcms/0002101462张建春",
+      "seg_label_dir": "./data/pancreas/labels/0002101462张建春",
+      "anno_item": "0002101462张建春",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 90,
+        "stop": 150
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002200222林晓岱",
+      "dcm_dir": "./data/pancreas/dcms/0002200222林晓岱",
+      "seg_label_dir": "./data/pancreas/labels/0002200222林晓岱",
+      "anno_item": "0002200222林晓岱",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 100,
+        "stop": 165
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002246130安天奎",
+      "dcm_dir": "./data/pancreas/dcms/0002246130安天奎",
+      "seg_label_dir": "./data/pancreas/labels/0002246130安天奎",
+      "anno_item": "0002246130安天奎",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 65,
+        "stop": 120
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002284642薛宝伶",
+      "dcm_dir": "./data/pancreas/dcms/0002284642薛宝伶",
+      "seg_label_dir": "./data/pancreas/labels/0002284642薛宝伶",
+      "anno_item": "0002284642薛宝伶",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 80,
+        "stop": 160
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002317755王世刚",
+      "dcm_dir": "./data/pancreas/dcms/0002317755王世刚",
+      "seg_label_dir": "./data/pancreas/labels/0002317755王世刚",
+      "anno_item": "0002317755王世刚",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 70,
+        "stop": 170
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002426637王焕",
+      "dcm_dir": "./data/pancreas/dcms/0002426637王焕",
+      "seg_label_dir": "./data/pancreas/labels/0002426637王焕",
+      "anno_item": "0002426637王焕",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 128,
+        "stop": 180
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002463039郝家福",
+      "dcm_dir": "./data/pancreas/dcms/0002463039郝家福",
+      "seg_label_dir": "./data/pancreas/labels/0002463039郝家福",
+      "anno_item": "0002463039郝家福",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 100,
+        "stop": 200
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002560402任永福",
+      "dcm_dir": "./data/pancreas/dcms/0002560402任永福",
+      "seg_label_dir": "./data/pancreas/labels/0002560402任永福",
+      "anno_item": "0002560402任永福",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 59,
+        "stop": 95
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002596964张成文",
+      "dcm_dir": "./data/pancreas/dcms/0002596964张成文",
+      "seg_label_dir": "./data/pancreas/labels/0002596964张成文",
+      "anno_item": "0002596964张成文",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 65,
+        "stop": 145
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002652526南连生",
+      "dcm_dir": "./data/pancreas/dcms/0002652526南连生",
+      "seg_label_dir": "./data/pancreas/labels/0002652526南连生",
+      "anno_item": "0002652526南连生",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 105,
+        "stop": 150
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002717274吕诚",
+      "dcm_dir": "./data/pancreas/dcms/0002717274吕诚",
+      "seg_label_dir": "./data/pancreas/labels/0002717274吕诚",
+      "anno_item": "0002717274吕诚",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 60,
+        "stop": 120
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002720013王恩来",
+      "dcm_dir": "./data/pancreas/dcms/0002720013王恩来",
+      "seg_label_dir": "./data/pancreas/labels/0002720013王恩来",
+      "anno_item": "0002720013王恩来",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 110,
+        "stop": 180
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002730058郝三柱",
+      "dcm_dir": "./data/pancreas/dcms/0002730058郝三柱",
+      "seg_label_dir": "./data/pancreas/labels/0002730058郝三柱",
+      "anno_item": "0002730058郝三柱",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 70,
+        "stop": 160
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002778589尹九成",
+      "dcm_dir": "./data/pancreas/dcms/0002778589尹九成",
+      "seg_label_dir": "./data/pancreas/labels/0002778589尹九成",
+      "anno_item": "0002778589尹九成",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 60,
+        "stop": 130
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002820879崔玉凤",
+      "dcm_dir": "./data/pancreas/dcms/0002820879崔玉凤",
+      "seg_label_dir": "./data/pancreas/labels/0002820879崔玉凤",
+      "anno_item": "0002820879崔玉凤",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 97,
+        "stop": 185
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002844317曹淑清",
+      "dcm_dir": "./data/pancreas/dcms/0002844317曹淑清",
+      "seg_label_dir": "./data/pancreas/labels/0002844317曹淑清",
+      "anno_item": "0002844317曹淑清",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 123,
+        "stop": 265
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002854179肖秀玲",
+      "dcm_dir": "./data/pancreas/dcms/0002854179肖秀玲",
+      "seg_label_dir": "./data/pancreas/labels/0002854179肖秀玲",
+      "anno_item": "0002854179肖秀玲",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 90,
+        "stop": 165
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002875958吴旭",
+      "dcm_dir": "./data/pancreas/dcms/0002875958吴旭",
+      "seg_label_dir": "./data/pancreas/labels/0002875958吴旭",
+      "anno_item": "0002875958吴旭",
+      "slice_thickness": 0.75,
+      "essential_layers": {
+        "start": 200,
+        "stop": 300
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002876521李贵彬",
+      "dcm_dir": "./data/pancreas/dcms/0002876521李贵彬",
+      "seg_label_dir": "./data/pancreas/labels/0002876521李贵彬",
+      "anno_item": "0002876521李贵彬",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 60,
+        "stop": 150
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002884447胡月宝",
+      "dcm_dir": "./data/pancreas/dcms/0002884447胡月宝",
+      "seg_label_dir": "./data/pancreas/labels/0002884447胡月宝",
+      "anno_item": "0002884447胡月宝",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 120,
+        "stop": 275
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002906476张芳",
+      "dcm_dir": "./data/pancreas/dcms/0002906476张芳",
+      "seg_label_dir": "./data/pancreas/labels/0002906476张芳",
+      "anno_item": "0002906476张芳",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 80,
+        "stop": 155
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002917880初国荣",
+      "dcm_dir": "./data/pancreas/dcms/0002917880初国荣",
+      "seg_label_dir": "./data/pancreas/labels/0002917880初国荣",
+      "anno_item": "0002917880初国荣",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 95,
+        "stop": 170
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003003966陈锡福",
+      "dcm_dir": "./data/pancreas/dcms/0003003966陈锡福",
+      "seg_label_dir": "./data/pancreas/labels/0003003966陈锡福",
+      "anno_item": "0003003966陈锡福",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 92,
+        "stop": 200
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003011389陈良",
+      "dcm_dir": "./data/pancreas/dcms/0003011389陈良",
+      "seg_label_dir": "./data/pancreas/labels/0003011389陈良",
+      "anno_item": "0003011389陈良",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 120,
+        "stop": 190
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003059035石电花",
+      "dcm_dir": "./data/pancreas/dcms/0003059035石电花",
+      "seg_label_dir": "./data/pancreas/labels/0003059035石电花",
+      "anno_item": "0003059035石电花",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 71,
+        "stop": 183
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003078556李秀苓",
+      "dcm_dir": "./data/pancreas/dcms/0003078556李秀苓",
+      "seg_label_dir": "./data/pancreas/labels/0003078556李秀苓",
+      "anno_item": "0003078556李秀苓",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 136,
+        "stop": 270
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003116996阚厚荣",
+      "dcm_dir": "./data/pancreas/dcms/0003116996阚厚荣",
+      "seg_label_dir": "./data/pancreas/labels/0003116996阚厚荣",
+      "anno_item": "0003116996阚厚荣",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 66,
+        "stop": 121
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003132248王光明",
+      "dcm_dir": "./data/pancreas/dcms/0003132248王光明",
+      "seg_label_dir": "./data/pancreas/labels/0003132248王光明",
+      "anno_item": "0003132248王光明",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 84,
+        "stop": 122
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003195300卜繁明",
+      "dcm_dir": "./data/pancreas/dcms/0003195300卜繁明",
+      "seg_label_dir": "./data/pancreas/labels/0003195300卜繁明",
+      "anno_item": "0003195300卜繁明",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 105,
+        "stop": 183
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003216253李万翠",
+      "dcm_dir": "./data/pancreas/dcms/0003216253李万翠",
+      "seg_label_dir": "./data/pancreas/labels/0003216253李万翠",
+      "anno_item": "0003216253李万翠",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 48,
+        "stop": 90
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003222197贾占贺",
+      "dcm_dir": "./data/pancreas/dcms/0003222197贾占贺",
+      "seg_label_dir": "./data/pancreas/labels/0003222197贾占贺",
+      "anno_item": "0003222197贾占贺",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 80,
+        "stop": 146
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003251442翟伟光",
+      "dcm_dir": "./data/pancreas/dcms/0003251442翟伟光",
+      "seg_label_dir": "./data/pancreas/labels/0003251442翟伟光",
+      "anno_item": "0003251442翟伟光",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 42,
+        "stop": 130
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003252224刘增祥",
+      "dcm_dir": "./data/pancreas/dcms/0003252224刘增祥",
+      "seg_label_dir": "./data/pancreas/labels/0003252224刘增祥",
+      "anno_item": "0003252224刘增祥",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 40,
+        "stop": 100
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003264404王玉华",
+      "dcm_dir": "./data/pancreas/dcms/0003264404王玉华",
+      "seg_label_dir": "./data/pancreas/labels/0003264404王玉华",
+      "anno_item": "0003264404王玉华",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 94,
+        "stop": 155
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003295482索中均",
+      "dcm_dir": "./data/pancreas/dcms/0003295482索中均",
+      "seg_label_dir": "./data/pancreas/labels/0003295482索中均",
+      "anno_item": "0003295482索中均",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 30,
+        "stop": 80
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003299818侯志恒",
+      "dcm_dir": "./data/pancreas/dcms/0003299818侯志恒",
+      "seg_label_dir": "./data/pancreas/labels/0003299818侯志恒",
+      "anno_item": "0003299818侯志恒",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 70,
+        "stop": 122
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003410585杨学勤",
+      "dcm_dir": "./data/pancreas/dcms/0003410585杨学勤",
+      "seg_label_dir": "./data/pancreas/labels/0003410585杨学勤",
+      "anno_item": "0003410585杨学勤",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 67,
+        "stop": 125
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003444035韩志远",
+      "dcm_dir": "./data/pancreas/dcms/0003444035韩志远",
+      "seg_label_dir": "./data/pancreas/labels/0003444035韩志远",
+      "anno_item": "0003444035韩志远",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 60,
+        "stop": 110
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003463481宋德俊",
+      "dcm_dir": "./data/pancreas/dcms/0003463481宋德俊",
+      "seg_label_dir": "./data/pancreas/labels/0003463481宋德俊",
+      "anno_item": "0003463481宋德俊",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 116,
+        "stop": 195
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003524856方亚男",
+      "dcm_dir": "./data/pancreas/dcms/0003524856方亚男",
+      "seg_label_dir": "./data/pancreas/labels/0003524856方亚男",
+      "anno_item": "0003524856方亚男",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 99,
+        "stop": 258
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003543807吴保国",
+      "dcm_dir": "./data/pancreas/dcms/0003543807吴保国",
+      "seg_label_dir": "./data/pancreas/labels/0003543807吴保国",
+      "anno_item": "0003543807吴保国",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 72,
+        "stop": 130
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003554785薛兴玉",
+      "dcm_dir": "./data/pancreas/dcms/0003554785薛兴玉",
+      "seg_label_dir": "./data/pancreas/labels/0003554785薛兴玉",
+      "anno_item": "0003554785薛兴玉",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 65,
+        "stop": 125
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003589874贺佃友",
+      "dcm_dir": "./data/pancreas/dcms/0003589874贺佃友",
+      "seg_label_dir": "./data/pancreas/labels/0003589874贺佃友",
+      "anno_item": "0003589874贺佃友",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 48,
+        "stop": 93
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003641527何启平",
+      "dcm_dir": "./data/pancreas/dcms/0003641527何启平",
+      "seg_label_dir": "./data/pancreas/labels/0003641527何启平",
+      "anno_item": "0003641527何启平",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 168,
+        "stop": 316
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003685165陈亚先",
+      "dcm_dir": "./data/pancreas/dcms/0003685165陈亚先",
+      "seg_label_dir": "./data/pancreas/labels/0003685165陈亚先",
+      "anno_item": "0003685165陈亚先",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 81,
+        "stop": 125
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003694052傅秀如",
+      "dcm_dir": "./data/pancreas/dcms/0003694052傅秀如",
+      "seg_label_dir": "./data/pancreas/labels/0003694052傅秀如",
+      "anno_item": "0003694052傅秀如",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 50,
+        "stop": 116
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003723797苏红文",
+      "dcm_dir": "./data/pancreas/dcms/0003723797苏红文",
+      "seg_label_dir": "./data/pancreas/labels/0003723797苏红文",
+      "anno_item": "0003723797苏红文",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 55,
+        "stop": 110
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003782055陈小平",
+      "dcm_dir": "./data/pancreas/dcms/0003782055陈小平",
+      "seg_label_dir": "./data/pancreas/labels/0003782055陈小平",
+      "anno_item": "0003782055陈小平",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 60,
+        "stop": 120
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020019402唐芳",
+      "dcm_dir": "./data/pancreas/dcms/0020019402唐芳",
+      "seg_label_dir": "./data/pancreas/labels/0020019402唐芳",
+      "anno_item": "0020019402唐芳",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 54,
+        "stop": 120
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020067988刘淑凤",
+      "dcm_dir": "./data/pancreas/dcms/0020067988刘淑凤",
+      "seg_label_dir": "./data/pancreas/labels/0020067988刘淑凤",
+      "anno_item": "0020067988刘淑凤",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 50,
+        "stop": 100
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020084266刘庆隆",
+      "dcm_dir": "./data/pancreas/dcms/0020084266刘庆隆",
+      "seg_label_dir": "./data/pancreas/labels/0020084266刘庆隆",
+      "anno_item": "0020084266刘庆隆",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 80,
+        "stop": 190
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020136010刘青占",
+      "dcm_dir": "./data/pancreas/dcms/0020136010刘青占",
+      "seg_label_dir": "./data/pancreas/labels/0020136010刘青占",
+      "anno_item": "0020136010刘青占",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 75,
+        "stop": 140
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020246351赫荣福",
+      "dcm_dir": "./data/pancreas/dcms/0020246351赫荣福",
+      "seg_label_dir": "./data/pancreas/labels/0020246351赫荣福",
+      "anno_item": "0020246351赫荣福",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 95,
+        "stop": 200
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020398668魏美芬",
+      "dcm_dir": "./data/pancreas/dcms/0020398668魏美芬",
+      "seg_label_dir": "./data/pancreas/labels/0020398668魏美芬",
+      "anno_item": "0020398668魏美芬",
+      "slice_thickness": 0.75,
+      "essential_layers": {
+        "start": 210,
+        "stop": 360
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020504042彭建",
+      "dcm_dir": "./data/pancreas/dcms/0020504042彭建",
+      "seg_label_dir": "./data/pancreas/labels/0020504042彭建",
+      "anno_item": "0020504042彭建",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 58,
+        "stop": 123
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020523854袁修礼",
+      "dcm_dir": "./data/pancreas/dcms/0020523854袁修礼",
+      "seg_label_dir": "./data/pancreas/labels/0020523854袁修礼",
+      "anno_item": "0020523854袁修礼",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 66,
+        "stop": 122
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020579007郭荣英",
+      "dcm_dir": "./data/pancreas/dcms/0020579007郭荣英",
+      "seg_label_dir": "./data/pancreas/labels/0020579007郭荣英",
+      "anno_item": "0020579007郭荣英",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 47,
+        "stop": 108
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020638862毛俊伶",
+      "dcm_dir": "./data/pancreas/dcms/0020638862毛俊伶",
+      "seg_label_dir": "./data/pancreas/labels/0020638862毛俊伶",
+      "anno_item": "0020638862毛俊伶",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 135,
+        "stop": 255
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020684965乔茂军",
+      "dcm_dir": "./data/pancreas/dcms/0020684965乔茂军",
+      "seg_label_dir": "./data/pancreas/labels/0020684965乔茂军",
+      "anno_item": "0020684965乔茂军",
+      "slice_thickness": 0.75,
+      "essential_layers": {
+        "start": 157,
+        "stop": 310
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020700458唐进龙",
+      "dcm_dir": "./data/pancreas/dcms/0020700458唐进龙",
+      "seg_label_dir": "./data/pancreas/labels/0020700458唐进龙",
+      "anno_item": "0020700458唐进龙",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 54,
+        "stop": 120
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020737861徐志平",
+      "dcm_dir": "./data/pancreas/dcms/0020737861徐志平",
+      "seg_label_dir": "./data/pancreas/labels/0020737861徐志平",
+      "anno_item": "0020737861徐志平",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 50,
+        "stop": 120
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020767998孙国华",
+      "dcm_dir": "./data/pancreas/dcms/0020767998孙国华",
+      "seg_label_dir": "./data/pancreas/labels/0020767998孙国华",
+      "anno_item": "0020767998孙国华",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 85,
+        "stop": 155
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020925791鲍庆之",
+      "dcm_dir": "./data/pancreas/dcms/0020925791鲍庆之",
+      "seg_label_dir": "./data/pancreas/labels/0020925791鲍庆之",
+      "anno_item": "0020925791鲍庆之",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 125,
+        "stop": 180
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020997386叶显英",
+      "dcm_dir": "./data/pancreas/dcms/0020997386叶显英",
+      "seg_label_dir": "./data/pancreas/labels/0020997386叶显英",
+      "anno_item": "0020997386叶显英",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 120,
+        "stop": 195
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021139764张桂英",
+      "dcm_dir": "./data/pancreas/dcms/0021139764张桂英",
+      "seg_label_dir": "./data/pancreas/labels/0021139764张桂英",
+      "anno_item": "0021139764张桂英",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 145,
+        "stop": 225
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021144723郑青风",
+      "dcm_dir": "./data/pancreas/dcms/0021144723郑青风",
+      "seg_label_dir": "./data/pancreas/labels/0021144723郑青风",
+      "anno_item": "0021144723郑青风",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 50,
+        "stop": 110
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021147932马明元",
+      "dcm_dir": "./data/pancreas/dcms/0021147932马明元",
+      "seg_label_dir": "./data/pancreas/labels/0021147932马明元",
+      "anno_item": "0021147932马明元",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 115,
+        "stop": 280
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021216806原旭光",
+      "dcm_dir": "./data/pancreas/dcms/0021216806原旭光",
+      "seg_label_dir": "./data/pancreas/labels/0021216806原旭光",
+      "anno_item": "0021216806原旭光",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 140,
+        "stop": 310
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021316039王桂花",
+      "dcm_dir": "./data/pancreas/dcms/0021316039王桂花",
+      "seg_label_dir": "./data/pancreas/labels/0021316039王桂花",
+      "anno_item": "0021316039王桂花",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 155,
+        "stop": 300
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021395075石红英",
+      "dcm_dir": "./data/pancreas/dcms/0021395075石红英",
+      "seg_label_dir": "./data/pancreas/labels/0021395075石红英",
+      "anno_item": "0021395075石红英",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 128,
+        "stop": 210
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021462545李贵立",
+      "dcm_dir": "./data/pancreas/dcms/0021462545李贵立",
+      "seg_label_dir": "./data/pancreas/labels/0021462545李贵立",
+      "anno_item": "0021462545李贵立",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 52,
+        "stop": 143
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021502962苏竹林",
+      "dcm_dir": "./data/pancreas/dcms/0021502962苏竹林",
+      "seg_label_dir": "./data/pancreas/labels/0021502962苏竹林",
+      "anno_item": "0021502962苏竹林",
+      "slice_thickness": 0.75,
+      "essential_layers": {
+        "start": 210,
+        "stop": 360
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021503395李华治",
+      "dcm_dir": "./data/pancreas/dcms/0021503395李华治",
+      "seg_label_dir": "./data/pancreas/labels/0021503395李华治",
+      "anno_item": "0021503395李华治",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 75,
+        "stop": 160
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021529034葛仙云",
+      "dcm_dir": "./data/pancreas/dcms/0021529034葛仙云",
+      "seg_label_dir": "./data/pancreas/labels/0021529034葛仙云",
+      "anno_item": "0021529034葛仙云",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 85,
+        "stop": 130
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021571362刘凤阁",
+      "dcm_dir": "./data/pancreas/dcms/0021571362刘凤阁",
+      "seg_label_dir": "./data/pancreas/labels/0021571362刘凤阁",
+      "anno_item": "0021571362刘凤阁",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 60,
+        "stop": 140
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021572525黄会芹",
+      "dcm_dir": "./data/pancreas/dcms/0021572525黄会芹",
+      "seg_label_dir": "./data/pancreas/labels/0021572525黄会芹",
+      "anno_item": "0021572525黄会芹",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 55,
+        "stop": 100
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021598198袁秀英",
+      "dcm_dir": "./data/pancreas/dcms/0021598198袁秀英",
+      "seg_label_dir": "./data/pancreas/labels/0021598198袁秀英",
+      "anno_item": "0021598198袁秀英",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 63,
+        "stop": 115
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021610690秦永庆",
+      "dcm_dir": "./data/pancreas/dcms/0021610690秦永庆",
+      "seg_label_dir": "./data/pancreas/labels/0021610690秦永庆",
+      "anno_item": "0021610690秦永庆",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 55,
+        "stop": 100
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021616792杨有忠",
+      "dcm_dir": "./data/pancreas/dcms/0021616792杨有忠",
+      "seg_label_dir": "./data/pancreas/labels/0021616792杨有忠",
+      "anno_item": "0021616792杨有忠",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 55,
+        "stop": 130
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021663979翟忠",
+      "dcm_dir": "./data/pancreas/dcms/0021663979翟忠",
+      "seg_label_dir": "./data/pancreas/labels/0021663979翟忠",
+      "anno_item": "0021663979翟忠",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 49,
+        "stop": 80
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021680131李海",
+      "dcm_dir": "./data/pancreas/dcms/0021680131李海",
+      "seg_label_dir": "./data/pancreas/labels/0021680131李海",
+      "anno_item": "0021680131李海",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 45,
+        "stop": 110
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021703379刘立枝",
+      "dcm_dir": "./data/pancreas/dcms/0021703379刘立枝",
+      "seg_label_dir": "./data/pancreas/labels/0021703379刘立枝",
+      "anno_item": "0021703379刘立枝",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 49,
+        "stop": 100
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021758613张春俊",
+      "dcm_dir": "./data/pancreas/dcms/0021758613张春俊",
+      "seg_label_dir": "./data/pancreas/labels/0021758613张春俊",
+      "anno_item": "0021758613张春俊",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 40,
+        "stop": 100
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021759338张来福",
+      "dcm_dir": "./data/pancreas/dcms/0021759338张来福",
+      "seg_label_dir": "./data/pancreas/labels/0021759338张来福",
+      "anno_item": "0021759338张来福",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 66,
+        "stop": 123
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021762462张小华",
+      "dcm_dir": "./data/pancreas/dcms/0021762462张小华",
+      "seg_label_dir": "./data/pancreas/labels/0021762462张小华",
+      "anno_item": "0021762462张小华",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 84,
+        "stop": 135
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021807221李明亮",
+      "dcm_dir": "./data/pancreas/dcms/0021807221李明亮",
+      "seg_label_dir": "./data/pancreas/labels/0021807221李明亮",
+      "anno_item": "0021807221李明亮",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 55,
+        "stop": 142
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021813574李华廷",
+      "dcm_dir": "./data/pancreas/dcms/0021813574李华廷",
+      "seg_label_dir": "./data/pancreas/labels/0021813574李华廷",
+      "anno_item": "0021813574李华廷",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 126,
+        "stop": 232
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021841841张德芳",
+      "dcm_dir": "./data/pancreas/dcms/0021841841张德芳",
+      "seg_label_dir": "./data/pancreas/labels/0021841841张德芳",
+      "anno_item": "0021841841张德芳",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 53,
+        "stop": 110
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021868252张毅",
+      "dcm_dir": "./data/pancreas/dcms/0021868252张毅",
+      "seg_label_dir": "./data/pancreas/labels/0021868252张毅",
+      "anno_item": "0021868252张毅",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 54,
+        "stop": 115
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021876315左美玲",
+      "dcm_dir": "./data/pancreas/dcms/0021876315左美玲",
+      "seg_label_dir": "./data/pancreas/labels/0021876315左美玲",
+      "anno_item": "0021876315左美玲",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 50,
+        "stop": 115
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021889496李先荣",
+      "dcm_dir": "./data/pancreas/dcms/0021889496李先荣",
+      "seg_label_dir": "./data/pancreas/labels/0021889496李先荣",
+      "anno_item": "0021889496李先荣",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 80,
+        "stop": 120
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021910452谭玉芹",
+      "dcm_dir": "./data/pancreas/dcms/0021910452谭玉芹",
+      "seg_label_dir": "./data/pancreas/labels/0021910452谭玉芹",
+      "anno_item": "0021910452谭玉芹",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 143,
+        "stop": 1260
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021952958乔其昌",
+      "dcm_dir": "./data/pancreas/dcms/0021952958乔其昌",
+      "seg_label_dir": "./data/pancreas/labels/0021952958乔其昌",
+      "anno_item": "0021952958乔其昌",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 48,
+        "stop": 110
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022000843王蕴芳",
+      "dcm_dir": "./data/pancreas/dcms/0022000843王蕴芳",
+      "seg_label_dir": "./data/pancreas/labels/0022000843王蕴芳",
+      "anno_item": "0022000843王蕴芳",
+      "slice_thickness": 0.75,
+      "essential_layers": {
+        "start": 192,
+        "stop": 325
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022016634杨铁元",
+      "dcm_dir": "./data/pancreas/dcms/0022016634杨铁元",
+      "seg_label_dir": "./data/pancreas/labels/0022016634杨铁元",
+      "anno_item": "0022016634杨铁元",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 95,
+        "stop": 153
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022024561李秉惠",
+      "dcm_dir": "./data/pancreas/dcms/0022024561李秉惠",
+      "seg_label_dir": "./data/pancreas/labels/0022024561李秉惠",
+      "anno_item": "0022024561李秉惠",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 75,
+        "stop": 170
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022056486杨保全",
+      "dcm_dir": "./data/pancreas/dcms/0022056486杨保全",
+      "seg_label_dir": "./data/pancreas/labels/0022056486杨保全",
+      "anno_item": "0022056486杨保全",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 67,
+        "stop": 150
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022063942姚精海",
+      "dcm_dir": "./data/pancreas/dcms/0022063942姚精海",
+      "seg_label_dir": "./data/pancreas/labels/0022063942姚精海",
+      "anno_item": "0022063942姚精海",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 78,
+        "stop": 150
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022077734杨心红",
+      "dcm_dir": "./data/pancreas/dcms/0022077734杨心红",
+      "seg_label_dir": "./data/pancreas/labels/0022077734杨心红",
+      "anno_item": "0022077734杨心红",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 144,
+        "stop": 260
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022111290赵学民",
+      "dcm_dir": "./data/pancreas/dcms/0022111290赵学民",
+      "seg_label_dir": "./data/pancreas/labels/0022111290赵学民",
+      "anno_item": "0022111290赵学民",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 90,
+        "stop": 270
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022121449黄志兰",
+      "dcm_dir": "./data/pancreas/dcms/0022121449黄志兰",
+      "seg_label_dir": "./data/pancreas/labels/0022121449黄志兰",
+      "anno_item": "0022121449黄志兰",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 72,
+        "stop": 128
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022127420刘秀珍",
+      "dcm_dir": "./data/pancreas/dcms/0022127420刘秀珍",
+      "seg_label_dir": "./data/pancreas/labels/0022127420刘秀珍",
+      "anno_item": "0022127420刘秀珍",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 118,
+        "stop": 170
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022135123陈玉军",
+      "dcm_dir": "./data/pancreas/dcms/0022135123陈玉军",
+      "seg_label_dir": "./data/pancreas/labels/0022135123陈玉军",
+      "anno_item": "0022135123陈玉军",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 96,
+        "stop": 175
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022137219许连贵",
+      "dcm_dir": "./data/pancreas/dcms/0022137219许连贵",
+      "seg_label_dir": "./data/pancreas/labels/0022137219许连贵",
+      "anno_item": "0022137219许连贵",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 87,
+        "stop": 165
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022143106石勇",
+      "dcm_dir": "./data/pancreas/dcms/0022143106石勇",
+      "seg_label_dir": "./data/pancreas/labels/0022143106石勇",
+      "anno_item": "0022143106石勇",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 80,
+        "stop": 140
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022152516郭国钊",
+      "dcm_dir": "./data/pancreas/dcms/0022152516郭国钊",
+      "seg_label_dir": "./data/pancreas/labels/0022152516郭国钊",
+      "anno_item": "0022152516郭国钊",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 102,
+        "stop": 182
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022183612李占华",
+      "dcm_dir": "./data/pancreas/dcms/0022183612李占华",
+      "seg_label_dir": "./data/pancreas/labels/0022183612李占华",
+      "anno_item": "0022183612李占华",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 86,
+        "stop": 167
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022202049刘根友",
+      "dcm_dir": "./data/pancreas/dcms/0022202049刘根友",
+      "seg_label_dir": "./data/pancreas/labels/0022202049刘根友",
+      "anno_item": "0022202049刘根友",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 80,
+        "stop": 130
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022226143张兰英",
+      "dcm_dir": "./data/pancreas/dcms/0022226143张兰英",
+      "seg_label_dir": "./data/pancreas/labels/0022226143张兰英",
+      "anno_item": "0022226143张兰英",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 103,
+        "stop": 162
+      }
+    }
+  ],
+  "val": [
+    {
+      "image_dir": "./data/pancreas/images/0003342654温延凯",
+      "dcm_dir": "./data/pancreas/dcms/0003342654温延凯",
+      "seg_label_dir": "./data/pancreas/labels/0003342654温延凯",
+      "anno_item": "0003342654温延凯",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 67,
+        "stop": 135
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003562790常蓬军",
+      "dcm_dir": "./data/pancreas/dcms/0003562790常蓬军",
+      "seg_label_dir": "./data/pancreas/labels/0003562790常蓬军",
+      "anno_item": "0003562790常蓬军",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 252,
+        "stop": 353
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003651236陈万胜",
+      "dcm_dir": "./data/pancreas/dcms/0003651236陈万胜",
+      "seg_label_dir": "./data/pancreas/labels/0003651236陈万胜",
+      "anno_item": "0003651236陈万胜",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 95,
+        "stop": 165
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020287998刘志敬",
+      "dcm_dir": "./data/pancreas/dcms/0020287998刘志敬",
+      "seg_label_dir": "./data/pancreas/labels/0020287998刘志敬",
+      "anno_item": "0020287998刘志敬",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 85,
+        "stop": 155
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020468298王开",
+      "dcm_dir": "./data/pancreas/dcms/0020468298王开",
+      "seg_label_dir": "./data/pancreas/labels/0020468298王开",
+      "anno_item": "0020468298王开",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 47,
+        "stop": 108
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021090918王志兰",
+      "dcm_dir": "./data/pancreas/dcms/0021090918王志兰",
+      "seg_label_dir": "./data/pancreas/labels/0021090918王志兰",
+      "anno_item": "0021090918王志兰",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 75,
+        "stop": 175
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022013325计振全",
+      "dcm_dir": "./data/pancreas/dcms/0022013325计振全",
+      "seg_label_dir": "./data/pancreas/labels/0022013325计振全",
+      "anno_item": "0022013325计振全",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 85,
+        "stop": 137
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022088409张环",
+      "dcm_dir": "./data/pancreas/dcms/0022088409张环",
+      "seg_label_dir": "./data/pancreas/labels/0022088409张环",
+      "anno_item": "0022088409张环",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 93,
+        "stop": 170
+      }
+    }
+  ],
+  "test": [
+    {
+      "image_dir": "./data/pancreas/images/0000144677朱永",
+      "dcm_dir": "./data/pancreas/dcms/0000144677朱永",
+      "seg_label_dir": "./data/pancreas/labels/0000144677朱永",
+      "anno_item": "0000144677朱永",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 100,
+        "stop": 175
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000273763薛敏",
+      "dcm_dir": "./data/pancreas/dcms/0000273763薛敏",
+      "seg_label_dir": "./data/pancreas/labels/0000273763薛敏",
+      "anno_item": "0000273763薛敏",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 120,
+        "stop": 230
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000398762梁巨生",
+      "dcm_dir": "./data/pancreas/dcms/0000398762梁巨生",
+      "seg_label_dir": "./data/pancreas/labels/0000398762梁巨生",
+      "anno_item": "0000398762梁巨生",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 60,
+        "stop": 120
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000472845王富忠",
+      "dcm_dir": "./data/pancreas/dcms/0000472845王富忠",
+      "seg_label_dir": "./data/pancreas/labels/0000472845王富忠",
+      "anno_item": "0000472845王富忠",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 100,
+        "stop": 190
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0000857682王西黑",
+      "dcm_dir": "./data/pancreas/dcms/0000857682王西黑",
+      "seg_label_dir": "./data/pancreas/labels/0000857682王西黑",
+      "anno_item": "0000857682王西黑",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 85,
+        "stop": 170
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0001224698季文宝",
+      "dcm_dir": "./data/pancreas/dcms/0001224698季文宝",
+      "seg_label_dir": "./data/pancreas/labels/0001224698季文宝",
+      "anno_item": "0001224698季文宝",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 55,
+        "stop": 175
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0001298523武江平",
+      "dcm_dir": "./data/pancreas/dcms/0001298523武江平",
+      "seg_label_dir": "./data/pancreas/labels/0001298523武江平",
+      "anno_item": "0001298523武江平",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 95,
+        "stop": 180
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0001905561韩丽秋",
+      "dcm_dir": "./data/pancreas/dcms/0001905561韩丽秋",
+      "seg_label_dir": "./data/pancreas/labels/0001905561韩丽秋",
+      "anno_item": "0001905561韩丽秋",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 135,
+        "stop": 185
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0001917015苏四辈",
+      "dcm_dir": "./data/pancreas/dcms/0001917015苏四辈",
+      "seg_label_dir": "./data/pancreas/labels/0001917015苏四辈",
+      "anno_item": "0001917015苏四辈",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 150,
+        "stop": 265
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002010185王全江",
+      "dcm_dir": "./data/pancreas/dcms/0002010185王全江",
+      "seg_label_dir": "./data/pancreas/labels/0002010185王全江",
+      "anno_item": "0002010185王全江",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 95,
+        "stop": 165
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002129709郑素清",
+      "dcm_dir": "./data/pancreas/dcms/0002129709郑素清",
+      "seg_label_dir": "./data/pancreas/labels/0002129709郑素清",
+      "anno_item": "0002129709郑素清",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 60,
+        "stop": 140
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002208753王玉环",
+      "dcm_dir": "./data/pancreas/dcms/0002208753王玉环",
+      "seg_label_dir": "./data/pancreas/labels/0002208753王玉环",
+      "anno_item": "0002208753王玉环",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 90,
+        "stop": 160
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0002842009周美兰",
+      "dcm_dir": "./data/pancreas/dcms/0002842009周美兰",
+      "seg_label_dir": "./data/pancreas/labels/0002842009周美兰",
+      "anno_item": "0002842009周美兰",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 86,
+        "stop": 145
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0003432576解印海",
+      "dcm_dir": "./data/pancreas/dcms/0003432576解印海",
+      "seg_label_dir": "./data/pancreas/labels/0003432576解印海",
+      "anno_item": "0003432576解印海",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 110,
+        "stop": 195
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020007897贺跃清",
+      "dcm_dir": "./data/pancreas/dcms/0020007897贺跃清",
+      "seg_label_dir": "./data/pancreas/labels/0020007897贺跃清",
+      "anno_item": "0020007897贺跃清",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 120,
+        "stop": 245
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020044352王广彬",
+      "dcm_dir": "./data/pancreas/dcms/0020044352王广彬",
+      "seg_label_dir": "./data/pancreas/labels/0020044352王广彬",
+      "anno_item": "0020044352王广彬",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 125,
+        "stop": 195
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020329646边舜全",
+      "dcm_dir": "./data/pancreas/dcms/0020329646边舜全",
+      "seg_label_dir": "./data/pancreas/labels/0020329646边舜全",
+      "anno_item": "0020329646边舜全",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 45,
+        "stop": 100
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0020809241李爱莲",
+      "dcm_dir": "./data/pancreas/dcms/0020809241李爱莲",
+      "seg_label_dir": "./data/pancreas/labels/0020809241李爱莲",
+      "anno_item": "0020809241李爱莲",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 85,
+        "stop": 137
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021370635孙书亭",
+      "dcm_dir": "./data/pancreas/dcms/0021370635孙书亭",
+      "seg_label_dir": "./data/pancreas/labels/0021370635孙书亭",
+      "anno_item": "0021370635孙书亭",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 145,
+        "stop": 250
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021435685王立新",
+      "dcm_dir": "./data/pancreas/dcms/0021435685王立新",
+      "seg_label_dir": "./data/pancreas/labels/0021435685王立新",
+      "anno_item": "0021435685王立新",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 70,
+        "stop": 115
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021517094于克祥",
+      "dcm_dir": "./data/pancreas/dcms/0021517094于克祥",
+      "seg_label_dir": "./data/pancreas/labels/0021517094于克祥",
+      "anno_item": "0021517094于克祥",
+      "slice_thickness": 0.75,
+      "essential_layers": {
+        "start": 150,
+        "stop": 290
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021579646刘强",
+      "dcm_dir": "./data/pancreas/dcms/0021579646刘强",
+      "seg_label_dir": "./data/pancreas/labels/0021579646刘强",
+      "anno_item": "0021579646刘强",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 55,
+        "stop": 115
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021751950苏玉刚",
+      "dcm_dir": "./data/pancreas/dcms/0021751950苏玉刚",
+      "seg_label_dir": "./data/pancreas/labels/0021751950苏玉刚",
+      "anno_item": "0021751950苏玉刚",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 48,
+        "stop": 91
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0021928142孙艳海",
+      "dcm_dir": "./data/pancreas/dcms/0021928142孙艳海",
+      "seg_label_dir": "./data/pancreas/labels/0021928142孙艳海",
+      "anno_item": "0021928142孙艳海",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 60,
+        "stop": 110
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022114735冯秀山",
+      "dcm_dir": "./data/pancreas/dcms/0022114735冯秀山",
+      "seg_label_dir": "./data/pancreas/labels/0022114735冯秀山",
+      "anno_item": "0022114735冯秀山",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 63,
+        "stop": 110
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022132069陈立平",
+      "dcm_dir": "./data/pancreas/dcms/0022132069陈立平",
+      "seg_label_dir": "./data/pancreas/labels/0022132069陈立平",
+      "anno_item": "0022132069陈立平",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 77,
+        "stop": 170
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022155848张志勇",
+      "dcm_dir": "./data/pancreas/dcms/0022155848张志勇",
+      "seg_label_dir": "./data/pancreas/labels/0022155848张志勇",
+      "anno_item": "0022155848张志勇",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 76,
+        "stop": 178
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022161459阮建",
+      "dcm_dir": "./data/pancreas/dcms/0022161459阮建",
+      "seg_label_dir": "./data/pancreas/labels/0022161459阮建",
+      "anno_item": "0022161459阮建",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 95,
+        "stop": 186
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022165905冯贵林",
+      "dcm_dir": "./data/pancreas/dcms/0022165905冯贵林",
+      "seg_label_dir": "./data/pancreas/labels/0022165905冯贵林",
+      "anno_item": "0022165905冯贵林",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 164,
+        "stop": 290
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/images/0022183680李树清",
+      "dcm_dir": "./data/pancreas/dcms/0022183680李树清",
+      "seg_label_dir": "./data/pancreas/labels/0022183680李树清",
+      "anno_item": "0022183680李树清",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 114,
+        "stop": 184
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/test/images/0000044430刘海燕",
+      "dcm_dir": "./data/pancreas/test/dcms/0000044430刘海燕",
+      "seg_label_dir": "./data/pancreas/test/labels/0000044430刘海燕",
+      "anno_item": "0000044430刘海燕",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 70,
+        "stop": 160
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/test/images/0000889864张桂兰",
+      "dcm_dir": "./data/pancreas/test/dcms/0000889864张桂兰",
+      "seg_label_dir": "./data/pancreas/test/labels/0000889864张桂兰",
+      "anno_item": "0000889864张桂兰",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 75,
+        "stop": 155
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/test/images/0001114108李利",
+      "dcm_dir": "./data/pancreas/test/dcms/0001114108李利",
+      "seg_label_dir": "./data/pancreas/test/labels/0001114108李利",
+      "anno_item": "0001114108李利",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 60,
+        "stop": 110
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/test/images/0022285562田淑萍",
+      "dcm_dir": "./data/pancreas/test/dcms/0022285562田淑萍",
+      "seg_label_dir": "./data/pancreas/test/labels/0022285562田淑萍",
+      "anno_item": "0022285562田淑萍",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 115,
+        "stop": 200
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/test/images/0022286473张春林",
+      "dcm_dir": "./data/pancreas/test/dcms/0022286473张春林",
+      "seg_label_dir": "./data/pancreas/test/labels/0022286473张春林",
+      "anno_item": "0022286473张春林",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 105,
+        "stop": 210
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/test/images/0022303700闫要恒",
+      "dcm_dir": "./data/pancreas/test/dcms/0022303700闫要恒",
+      "seg_label_dir": "./data/pancreas/test/labels/0022303700闫要恒",
+      "anno_item": "0022303700闫要恒",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 65,
+        "stop": 140
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/test/images/0022307637郑秀敏",
+      "dcm_dir": "./data/pancreas/test/dcms/0022307637郑秀敏",
+      "seg_label_dir": "./data/pancreas/test/labels/0022307637郑秀敏",
+      "anno_item": "0022307637郑秀敏",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 75,
+        "stop": 160
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/test/images/0022344339刘明德",
+      "dcm_dir": "./data/pancreas/test/dcms/0022344339刘明德",
+      "seg_label_dir": "./data/pancreas/test/labels/0022344339刘明德",
+      "anno_item": "0022344339刘明德",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 150,
+        "stop": 295
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/test/images/0022392215王清山",
+      "dcm_dir": "./data/pancreas/test/dcms/0022392215王清山",
+      "seg_label_dir": "./data/pancreas/test/labels/0022392215王清山",
+      "anno_item": "0022392215王清山",
+      "slice_thickness": 1.0,
+      "essential_layers": {
+        "start": 100,
+        "stop": 190
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/test/images/0022392870齐焕奎",
+      "dcm_dir": "./data/pancreas/test/dcms/0022392870齐焕奎",
+      "seg_label_dir": "./data/pancreas/test/labels/0022392870齐焕奎",
+      "anno_item": "0022392870齐焕奎",
+      "slice_thickness": 0.9,
+      "essential_layers": {
+        "start": 150,
+        "stop": 270
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/test/images/0022408174庞吉祥",
+      "dcm_dir": "./data/pancreas/test/dcms/0022408174庞吉祥",
+      "seg_label_dir": "./data/pancreas/test/labels/0022408174庞吉祥",
+      "anno_item": "0022408174庞吉祥",
+      "slice_thickness": 1.5,
+      "essential_layers": {
+        "start": 60,
+        "stop": 140
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/test/images/0022414237张小莉",
+      "dcm_dir": "./data/pancreas/test/dcms/0022414237张小莉",
+      "seg_label_dir": "./data/pancreas/test/labels/0022414237张小莉",
+      "anno_item": "0022414237张小莉",
+      "slice_thickness": 0.625,
+      "essential_layers": {
+        "start": 110,
+        "stop": 270
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/test/images/0022420538杨永胜",
+      "dcm_dir": "./data/pancreas/test/dcms/0022420538杨永胜",
+      "seg_label_dir": "./data/pancreas/test/labels/0022420538杨永胜",
+      "anno_item": "0022420538杨永胜",
+      "slice_thickness": 0.625,
+      "essential_layers": {
+        "start": 140,
+        "stop": 260
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/test/images/0022422859曾勇",
+      "dcm_dir": "./data/pancreas/test/dcms/0022422859曾勇",
+      "seg_label_dir": "./data/pancreas/test/labels/0022422859曾勇",
+      "anno_item": "0022422859曾勇",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 45,
+        "stop": 120
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/test/images/0022425235苏桂平",
+      "dcm_dir": "./data/pancreas/test/dcms/0022425235苏桂平",
+      "seg_label_dir": "./data/pancreas/test/labels/0022425235苏桂平",
+      "anno_item": "0022425235苏桂平",
+      "slice_thickness": 0.625,
+      "essential_layers": {
+        "start": 110,
+        "stop": 240
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/test/images/0022426692宋长玲",
+      "dcm_dir": "./data/pancreas/test/dcms/0022426692宋长玲",
+      "seg_label_dir": "./data/pancreas/test/labels/0022426692宋长玲",
+      "anno_item": "0022426692宋长玲",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 65,
+        "stop": 135
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/test/images/0022447556陈玉伶",
+      "dcm_dir": "./data/pancreas/test/dcms/0022447556陈玉伶",
+      "seg_label_dir": "./data/pancreas/test/labels/0022447556陈玉伶",
+      "anno_item": "0022447556陈玉伶",
+      "slice_thickness": 0.625,
+      "essential_layers": {
+        "start": 190,
+        "stop": 355
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/test/images/0022447797杨东梅",
+      "dcm_dir": "./data/pancreas/test/dcms/0022447797杨东梅",
+      "seg_label_dir": "./data/pancreas/test/labels/0022447797杨东梅",
+      "anno_item": "0022447797杨东梅",
+      "slice_thickness": 0.625,
+      "essential_layers": {
+        "start": 160,
+        "stop": 370
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/test/images/0022450468杨忠",
+      "dcm_dir": "./data/pancreas/test/dcms/0022450468杨忠",
+      "seg_label_dir": "./data/pancreas/test/labels/0022450468杨忠",
+      "anno_item": "0022450468杨忠",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 65,
+        "stop": 140
+      }
+    },
+    {
+      "image_dir": "./data/pancreas/test/images/0022486686侯居福",
+      "dcm_dir": "./data/pancreas/test/dcms/0022486686侯居福",
+      "seg_label_dir": "./data/pancreas/test/labels/0022486686侯居福",
+      "anno_item": "0022486686侯居福",
+      "slice_thickness": 1.25,
+      "essential_layers": {
+        "start": 85,
+        "stop": 150
+      }
+    }
+  ]
+}
