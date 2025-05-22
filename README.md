@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the official implement of paper: [BaiduDiskLink](https://pan.baidu.com/s/1sPmA0VMD5Wu287yYNiFT5A?pwd=5hmd)
+This is the official implement of paper: TBD
 
 Highlights:
 
@@ -12,13 +12,13 @@ Highlights:
 
 - The experimental results on the MPCD demonstrate that the effectiveness of our method for non-invasive SMPV diagnosis as well as the potential for personalized treatment recommendation. The best performance also shows the comprehensiveness and rationality of the proposed multi-modal approach compared with the existing single-modal methods.
 
-![](D:\codes\MDNet\figs\framework.png)
+![](.\figs\framework.png)
 
 ## MPCD
 
 The multi-modal pancreatic cancer dataset (MPCD) contains 208 pancreatic cancer patients, which covers preoperative CT images, blood examination results, personal data, and postoperative pathological data of each patient.
 
-Download Link: 
+Download Link: [BaiduDiskLink](https://pan.baidu.com/s/1sPmA0VMD5Wu287yYNiFT5A?pwd=5hmd)
 
 ## Instruction
 
