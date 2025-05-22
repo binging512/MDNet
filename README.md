@@ -12,7 +12,7 @@ Highlights:
 
 - The experimental results on the MPCD demonstrate that the effectiveness of our method for non-invasive SMPV diagnosis as well as the potential for personalized treatment recommendation. The best performance also shows the comprehensiveness and rationality of the proposed multi-modal approach compared with the existing single-modal methods.
 
-![](.\figs\framework.png)
+![](figs/framework.png)
 
 ## MPCD
 
